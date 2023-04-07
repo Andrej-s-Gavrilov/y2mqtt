@@ -1,4 +1,4 @@
-# y2qmtt
+# y2mqtt
 ## План
 1. Прочитайте концепцию управления умным домом (https://yandex.ru/dev/dialogs/smart-home/doc/concepts/general-concept.html#general-concept).
 2. Реализуйте авторизационный сервис на основе стандарта OAuth 2.0 (https://tools.ietf.org/html/rfc6749) для авторизации пользователей.
